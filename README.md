@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ## Bem-vindo ao meu perfil no Github!
 Meu nome é Lucas Rodrigues e sou um desenvolvedor com 21 anos de idade. Possuo habilidades em diversas tecnologias, as principais são:
 
-- Java: Experiência em desenvolvimento de aplicações web e desktop com Java, além de consumo de API Rest.
+- Java: 
+Experiência em desenvolvimento de aplicações web e desktop com Java, além de consumo de API Rest.
 
 - Python: Familiaridade com Python e sua utilização em projetos de automação.
 
