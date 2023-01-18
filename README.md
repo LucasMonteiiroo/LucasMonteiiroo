@@ -20,7 +20,7 @@ Meu nome é Lucas Rodrigues, tenho 21 anos e sou desenvolvedor de software.
 ## Habilidades
 Tenho conhecimentos em diversas linguagens de programação, as principais são:
 
-Java
+- Java
 
 Python
 
