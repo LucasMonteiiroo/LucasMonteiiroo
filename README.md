@@ -32,7 +32,7 @@ Tenho conhecimentos em diversas linguagens de programação, as principais são:
 
 tenho experiência em consumo de API Rest e algumas integrações.
 
-Além disso, conheço e ja utilizei esses bancos de dados relacionais.
+## Além disso, conheço e ja utilizei esses bancos de dados relacionais.
 
 - MySQL
 
