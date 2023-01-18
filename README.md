@@ -43,3 +43,6 @@ Conhecimentos em bancos de dados relacionais, incluindo MySQL, SQL Server e Orac
 Esse repositório é uma coleção de projetos que eu já trabalhei e que espero que ajude outros desenvolvedores.
 
 Meu objetivo é continuar aprendendo e evoluindo minhas habilidades para se tornar um desenvolvedor cada vez mais completo e capacitado. Acompanhe meu trabalho aqui no Github e não hesite em entrar em contato comigo para discutir projetos ou oportunidades de trabalho.
+
+
+https://www.linkedin.com/in/lucas-monteiro-56585117b/
