@@ -15,35 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Lucas Rodrigues, tenho 21 anos e sou desenvolvedor de software.
+## Bem-vindo ao meu perfil no Github!
+Meu nome é Lucas Rodrigues e sou um desenvolvedor com 21 anos de idade. Possuo habilidades em diversas tecnologias, as principais são:
 
-## Habilidades
-Tenho conhecimentos em diversas linguagens de programação, as principais são:
+- Java: Experiência em desenvolvimento de aplicações web e desktop com Java, além de consumo de API Rest.
 
-- Java
+- Python: Familiaridade com Python e sua utilização em projetos de automação.
 
-- Python
+- JavaScript: Conhecimentos em JavaScript, incluindo frameworks como React e Angular.
 
-- JavaScript
+- HTML and CSS: Experiência em desenvolvimento de sites responsivos e com boa usabilidade.
 
-- HTML
+- Banco de dados: Conhecimentos em bancos de dados relacionais, incluindo MySQL, SQL Server e Oracle.
 
-- CSS
 
-tenho experiência em consumo de API Rest e algumas integrações.
 
-## Além disso, conheço e ja utilizei esses bancos de dados relacionais.
+Esse repositório é uma coleção de projetos que eu já trabalhei e que espero que ajude outros desenvolvedores.
 
-- MySQL
-
-- SQL Server
-
-- Oracle
-
-Utilizados em Ambientes como, PostgreSQL, MySQL Workbench, SQL Plus. 
-
-## Projetos
-
-Aqui no meu perfil do GitHub você pode encontrar alguns dos projetos nos quais trabalhei. Fique à vontade para dar uma olhada e entrar em contato comigo se tiver alguma dúvida ou sugestão.
-
-Obrigado por visitar!
+Meu objetivo é continuar aprendendo e evoluindo minhas habilidades para se tornar um desenvolvedor cada vez mais completo e capacitado. Acompanhe meu trabalho aqui no Github e não hesite em entrar em contato comigo para discutir projetos ou oportunidades de trabalho.
