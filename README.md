@@ -22,21 +22,25 @@ Tenho conhecimentos em diversas linguagens de programação, as principais são:
 
 - Java
 
-Python
+- Python
 
-JavaScript
+- JavaScript
 
-HTML
+- HTML
 
-CSS
+- CSS
 
-Além disso, tenho experiência em consumo de API Rest e bancos de dados relacionais, como:
+tenho experiência em consumo de API Rest e algumas integrações.
 
-MySQL
+Além disso, conheço e ja utilizei esses bancos de dados relacionais.
 
-SQL Server
+- MySQL
 
-Oracle
+- SQL Server
+
+- Oracle
+
+Utilizados em Ambientes como, PostgreSQL, MySQL Workbench, SQL Plus. 
 
 ## Projetos
 
