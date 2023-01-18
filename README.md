@@ -22,13 +22,21 @@ Meu nome é Lucas Rodrigues e sou um desenvolvedor com 21 anos de idade. Possuo 
 
 Experiência em desenvolvimento de aplicações web e desktop com Java, além de consumo de API Rest.
 
-- Python: Familiaridade com Python e sua utilização em projetos de automação.
+- Python: 
 
-- JavaScript: Conhecimentos em JavaScript, incluindo frameworks como React e Angular.
+Familiaridade com Python e sua utilização em projetos de automação.
 
-- HTML and CSS: Experiência em desenvolvimento de sites responsivos e com boa usabilidade.
+- JavaScript:
 
-- Banco de dados: Conhecimentos em bancos de dados relacionais, incluindo MySQL, SQL Server e Oracle.
+Conhecimentos em JavaScript, incluindo frameworks como React e Angular.
+
+- HTML and CSS:
+
+Experiência em desenvolvimento de sites responsivos e com boa usabilidade.
+
+- Banco de dados:
+
+Conhecimentos em bancos de dados relacionais, incluindo MySQL, SQL Server e Oracle.
 
 
 
